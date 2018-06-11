@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "zh_CN"
+title = "My New Hugo Site"
+
+baseurl="https://hrui.github.io"
+DisqusShortname="黄大仙"
+
+
